@@ -1,12 +1,15 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhruv%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Backend%20%26%20DevOps%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Deploying+AI-Powered+Microservices+%F0%9F%A4%96;LangChain+%7C+RAG+%7C+LLM+Pipelines+%F0%9F%A7%A0;AWS+%7C+Kubernetes+%7C+GitOps+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
-
+<!-- Animated Banner (reliable waving header) -->
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Dhruv%20Patel&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Senior%20Backend%20%26%20DevOps%20Engineer%20%7C%20AI%2FML%20Enthusiast&amp;descAlignY=58&amp;descSize=18" width="100%" alt="Dhruv Patel - Senior Backend & DevOps Engineer"/>
+</picture>
 <br/>
+
+<!-- Typing Animation — single-line cycling (avoids multiline overlap) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=6AD3F7&center=true&vCenter=true&width=650&height=45&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Deploying+AI-Powered+Microservices+%F0%9F%A4%96;LangChain+%7C+RAG+%7C+LLM+Pipelines+%F0%9F%A7%A0;AWS+%7C+Kubernetes+%7C+GitOps+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvpatel1804/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://google.com)
