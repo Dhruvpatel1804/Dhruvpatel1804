@@ -254,14 +254,6 @@ Frontend (React)        ████████████░░░░░░�
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dhruvpatel1804&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
-</div>
-
----
-
 ## 🌱 Currently Learning & Exploring
 
 <div align="center">
