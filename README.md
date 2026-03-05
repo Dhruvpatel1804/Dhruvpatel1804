@@ -8,8 +8,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvpatel1804/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://google.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvpatel2109@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804)
 
@@ -107,7 +107,7 @@ class DhruvPatel:
 - RAG pipeline with vector database for context retrieval
 - Scalable SaaS multi-tenant architecture
 
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804/ai-math-evaluator)
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
 </td>
     <td width="50%" valign="top">
@@ -125,7 +125,7 @@ class DhruvPatel:
 - Translates plain English into accurate SQL queries
 - Supports complex joins and aggregations
 
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804/ai-data-chatbot)
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
 </td>
   </tr>
@@ -145,7 +145,10 @@ class DhruvPatel:
 - WebSocket connections for instant client delivery
 - Handles high-concurrency match events
 
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804/racquetheroes-backend)
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)]
+- Live at [warmup.sendwithhma.com](https://racquetheroes.com/)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://racquetheroes.com)
 
 </td>
     <td width="50%" valign="top">
@@ -162,7 +165,7 @@ class DhruvPatel:
 - Telegram bot for instant trade signal delivery
 - Configurable alert thresholds and conditions
 
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804/trade-alert-platform)
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804/TradeAlertPro)
 
 </td>
   </tr>
@@ -182,7 +185,7 @@ class DhruvPatel:
 - Redis caching for tenant session management
 - Azure cloud deployment with autoscaling
 
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804/multi-tenant-saas)
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
 </td>
     <td width="50%" valign="top">
@@ -276,8 +279,8 @@ Frontend (React)        ████████████░░░░░░�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvpatel1804/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://google.com)
 [![Email](https://img.shields.io/badge/Email-Say_Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvpatel2109@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804)
 
