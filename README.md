@@ -147,9 +147,7 @@ class DhruvPatel:
 - Real-time pub/sub with Redis for live score updates
 - WebSocket connections for instant client delivery
 - Handles high-concurrency match events
-
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)]
-- Live at [warmup.sendwithhma.com](https://racquetheroes.com/)
+- Live at [racquetheroes.com](https://racquetheroes.com/)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://racquetheroes.com)
 
