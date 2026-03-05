@@ -1,241 +1,295 @@
-🚀 Dhruv Patel
-<p align="center"> Backend Engineer • DevOps Engineer • Cloud Architect </p> <p align="center"> Building scalable backend systems, cloud infrastructure and production-grade deployments. </p> <p align="center">
+<div align="center">
+
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhruv%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Backend%20%26%20DevOps%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Deploying+AI-Powered+Microservices+%F0%9F%A4%96;LangChain+%7C+RAG+%7C+LLM+Pipelines+%F0%9F%A7%A0;AWS+%7C+Kubernetes+%7C+GitOps+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvpatel2109@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804)
+
+<img src="https://komarev.com/ghpvc/?username=Dhruvpatel1804&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```python
+class DhruvPatel:
+    def __init__(self):
+        self.name        = "Dhruv Patel"
+        self.role        = "Senior Backend & DevOps Engineer"
+        self.location    = "Ahmedabad, India 🇮🇳"
+        self.education   = "M.Tech – NIT Jalandhar (2022)"
+        self.experience  = "5+ years"
+
+    @property
+    def current_focus(self):
+        return [
+            "🤖 Building RAG pipelines with LangChain & LangGraph",
+            "☁️  Architecting cloud-native systems on AWS EKS",
+            "🔁  Automating CI/CD with GitHub Actions & ArgoCD",
+            "🧠  Exploring LLM fine-tuning & agentic AI workflows",
+        ]
+
+    @property
+    def fun_fact(self):
+        return "I turn natural language into SQL and student answers into AI feedback 🚀"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔤 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🤖 Generative AI & LLM
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00BCD4?style=for-the-badge&logo=buffer&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-7B68EE?style=for-the-badge&logo=databricks&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🗄️ Databases & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+### 📊 Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧮 AI Math Assignment Evaluator
+> SaaS platform for auto-grading student math assignments using AI
+
+**Tech Stack:**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
+![RAG](https://img.shields.io/badge/-RAG-00BCD4?style=flat)
+![VectorDB](https://img.shields.io/badge/-VectorDB-7B68EE?style=flat)
 
+- Evaluates open-ended math answers with LLM reasoning
+- RAG pipeline with vector database for context retrieval
+- Scalable SaaS multi-tenant architecture
 
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804/ai-math-evaluator)
 
+</td>
+    <td width="50%" valign="top">
 
+### 🤖 AI Data Chatbot (NL → SQL)
+> Multi-agent system converting natural language to SQL queries
 
+**Tech Stack:**
+![LangGraph](https://img.shields.io/badge/-LangGraph-FF6B6B?style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-</p>
-👨‍💻 About Me
+- LangGraph multi-agent orchestration workflow
+- Translates plain English into accurate SQL queries
+- Supports complex joins and aggregations
 
-Backend & DevOps Engineer with 4+ years of experience building scalable backend systems and cloud infrastructure.
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804/ai-data-chatbot)
 
-I specialize in:
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-High-performance Python backend architectures
+### 🎾 Racquetheroes Real-Time Sports Backend
+> Live sports scoring backend with WebSocket support
 
-Cloud-native DevOps pipelines
+**Tech Stack:**
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Kubernetes based microservices
+- Real-time pub/sub with Redis for live score updates
+- WebSocket connections for instant client delivery
+- Handles high-concurrency match events
 
-Infrastructure automation with Terraform
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804/racquetheroes-backend)
 
-Real-time distributed systems
+</td>
+    <td width="50%" valign="top">
 
-💡 I enjoy solving scalability, automation, and system design challenges.
+### 📈 TradeAlert Platform
+> Automated trading alerts with Telegram bot notifications
 
-⚡ Tech Stack
-👨‍💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=python,bash,sql" /> </p>
-⚙️ Backend Development
-<p> <img src="https://skillicons.dev/icons?i=django,fastapi,redis" /> </p>
+**Tech Stack:**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Telegram](https://img.shields.io/badge/-Telegram_Bot-2CA5E0?style=flat&logo=telegram&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-Technologies
+- Integrated with FYERS API for live market data
+- Telegram bot for instant trade signal delivery
+- Configurable alert thresholds and conditions
 
-Django
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804/trade-alert-platform)
 
-FastAPI
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-Redis
+### 🏢 Multi-Tenant SaaS Platform
+> Scalable SaaS backend with full tenant isolation
 
-RabbitMQ
+**Tech Stack:**
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
 
-Celery
+- Schema-based tenant isolation in PostgreSQL
+- Redis caching for tenant session management
+- Azure cloud deployment with autoscaling
 
-WebSockets
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804/multi-tenant-saas)
 
-REST APIs
+</td>
+    <td width="50%" valign="top">
 
-OpenAPI / Swagger
+### 📧 Email Warm-up Platform
+> Production SaaS for email deliverability warm-up
 
-🗄 Databases
-<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /> </p>
-☁️ DevOps & Cloud
-<p> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins" /> </p>
+**Tech Stack:**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Technologies
+- Automated email warm-up scheduling engine
+- Asynchronous processing with Celery workers
+- Live at [warmup.sendwithhma.com](https://warmup.sendwithhma.com)
 
-AWS (EKS, EC2, S3, RDS, IAM, Lambda)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://warmup.sendwithhma.com)
 
-Kubernetes (EKS)
+</td>
+  </tr>
+</table>
 
-Helm
+---
 
-ArgoCD
+## 📊 Skills Overview
 
-Terraform
+```
+Backend Engineering     ████████████████████  95%
+Generative AI / LLM     ████████████████░░░░  80%
+Cloud & DevOps          ████████████████░░░░  80%
+Database Design         ███████████████░░░░░  75%
+Frontend (React)        ████████████░░░░░░░░  60%
+```
 
-GitHub Actions
+| Category | Skills |
+|---|---|
+| 🐍 **Programming** | Python, SQL, Bash |
+| ⚙️ **Backend** | FastAPI, Django, REST APIs, WebSockets |
+| 🤖 **Generative AI** | LangChain, LangGraph, RAG, OpenAI, Embeddings, Vector DBs |
+| 🗄️ **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| ☁️ **Cloud** | AWS (EKS, EC2, S3, RDS), Azure |
+| 🔧 **DevOps** | Docker, Kubernetes, Terraform, Helm, ArgoCD, GitHub Actions |
+| 📡 **Messaging** | RabbitMQ, Celery |
+| 📊 **Observability** | Prometheus, Grafana, FluentBit, OpenObserve |
 
-Jenkins
+---
 
-Bitbucket Pipelines
+## 📈 GitHub Stats
 
-📊 Monitoring & Observability
-<p> <img src="https://skillicons.dev/icons?i=grafana,prometheus" /> </p>
+<div align="center">
 
-Prometheus
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruvpatel1804&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvpatel1804&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
-Grafana
+<br/>
 
-FluentBit
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvpatel1804&theme=tokyonight&hide_border=true" />
 
-OpenObserve
+<br/>
 
-⭐ Featured Projects
-🏸 RacquetHeroes – Real-Time Sports Platform
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvpatel1804&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
-Scalable backend powering real-time multi-sport scoring applications.
+</div>
 
-Tech Stack
+---
 
-Django • Redis • WebSockets • PostgreSQL • Docker
+## 🏆 GitHub Trophies
 
-Highlights
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Dhruvpatel1804&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+</div>
 
-Real-time scoring updates
+---
 
-Redis Pub/Sub architecture
+## 🌱 Currently Learning & Exploring
 
-High-performance schema for sports analytics
+<div align="center">
 
-🔗 Repo
-https://github.com/yourusername/racquetheroes
+| 🔭 Exploring | 💡 Deep-Diving | 🎯 Goals 2025 |
+|---|---|---|
+| LLM Fine-tuning | Agentic AI Workflows | Open-source AI contribution |
+| LlamaIndex | Multi-modal RAG | AWS Solutions Architect cert |
+| Rust for performance | eBPF & observability | Write technical blog posts |
 
-📧 Email Warmup Automation Platform
+</div>
 
-Platform designed to improve email deliverability reputation automatically.
+---
 
-Tech Stack
+## 🤝 Connect With Me
 
-Django • Redis • OpenVPN • Docker
+<div align="center">
 
-Highlights
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvpatel2109@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804)
 
-Automated warmup strategy engine
+<br/>
 
-Secure email routing
+> *"Code is not just instructions for machines — it's architecture for ideas."*
 
-Containerized deployment
+</div>
 
-🔗 Repo
-https://github.com/yourusername/email-warmup
+---
 
-☁️ GitOps Deployment Platform
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-Production-ready cloud infrastructure automation pipeline.
-
-Tech Stack
-
-Terraform • AWS EKS • ArgoCD • Helm • GitHub Actions
-
-Highlights
-
-Terraform-managed infrastructure
-
-GitOps deployment pipeline
-
-Kubernetes Helm deployments
-
-🔗 Repo
-https://github.com/yourusername/gitops-platform
-
-🤖 AI Resume Builder Backend
-
-Backend service for AI-powered resume generation.
-
-Tech Stack
-
-FastAPI • OpenAI • Whisper • Docker
-
-Highlights
-
-AI resume content generation
-
-Voice-to-text integration
-
-Microservice architecture
-
-💬 AI Chatbot Platform
-
-AI assistant system using OpenAI APIs.
-
-Tech Stack
-
-FastAPI • PostgreSQL • OpenAI Assistants
-
-Highlights
-
-Persistent conversation memory
-
-API-driven chatbot backend
-
-scalable LLM integration
-
-📊 GitHub Analytics
-📈 GitHub Stats
-
-🔥 GitHub Streak
-
-📊 Most Used Languages
-
-📈 Contribution Graph
-
-🌱 Currently Exploring
-
-Advanced Kubernetes scaling
-
-Platform Engineering
-
-AI backend systems
-
-Event-driven microservices
-
-Distributed system design
-
-🤝 Connect With Me
-
-📧 Email
-dhruvpatel2109@gmail.com
-
-💼 LinkedIn
-https://linkedin.com/in/yourprofile
-
-🌐 Portfolio
-https://yourportfolio.dev
-
-💻 GitHub
-https://github.com/Dhruvpatel1804
-
-🏆 Future Improvements For This README
-1️⃣ Add DevOps Architecture Diagrams
-
-Example:
-
-Kubernetes GitOps pipeline
-
-Terraform infrastructure layout
-
-Microservices architecture
-
-These greatly impress senior recruiters.
-
-2️⃣ Add Open Source DevOps Templates
-
-Create repos like:
-
-terraform-aws-eks-template
-fastapi-production-template
-kubernetes-gitops-starter
-django-production-template
-
-These attract DevOps hiring managers.
-
-3️⃣ Add Contribution Snake Animation
-
-Add this animation:
-
-github-snake-animation
-
-It makes the profile much more visually attractive.
+<!-- Snake animation - enable via GitHub Actions in your profile repo -->
+<!-- <img src="https://github.com/Dhruvpatel1804/Dhruvpatel1804/blob/output/github-contribution-grid-snake.svg" /> -->
