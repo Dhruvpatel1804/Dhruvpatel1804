@@ -7,7 +7,7 @@
 <br/>
 
 <!-- Typing Animation — single-line cycling (avoids multiline overlap) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=6AD3F7&center=true&vCenter=true&width=650&height=45&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Deploying+AI-Powered+Microservices+%F0%9F%A4%96;LangChain+%7C+RAG+%7C+LLM+Pipelines+%F0%9F%A7%A0;AWS+%7C+Kubernetes+%7C+GitOps+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=6AD3F7&center=true&vCenter=true&width=650&height=45&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Deploying+AI-Powered+Microservices+%F0%9F%A4%96;LangChain+%7C+RAG+%7C+LLM+Pipelines+%F0%9F%A7%A0;QLoRA+Fine-tuning+%7C+MLOps+Pipelines+%F0%9F%94%A5;AWS+%7C+Kubernetes+%7C+GitOps+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -36,6 +36,7 @@ class DhruvPatel:
     @property
     def current_focus(self):
         return [
+            "🔥 Building end-to-end MLOps pipelines with QLoRA fine-tuning",
             "🤖 Building RAG pipelines with LangChain & LangGraph",
             "☁️  Architecting cloud-native systems on AWS EKS",
             "🔁  Automating CI/CD with GitHub Actions & ArgoCD",
@@ -44,7 +45,7 @@ class DhruvPatel:
 
     @property
     def fun_fact(self):
-        return "I turn natural language into SQL and student answers into AI feedback 🚀"
+        return "I fine-tune LLMs on free GPUs and turn natural language into SQL 🚀"
 ```
 
 ---
@@ -66,6 +67,14 @@ class DhruvPatel:
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-00BCD4?style=for-the-badge&logo=buffer&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_DB-7B68EE?style=for-the-badge&logo=databricks&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![QLoRA](https://img.shields.io/badge/QLoRA_Fine--tuning-FF4B4B?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🔬 MLOps & Model Serving
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PEFT](https://img.shields.io/badge/PEFT_LoRA-00BCD4?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -97,6 +106,27 @@ class DhruvPatel:
   <tr>
     <td width="50%" valign="top">
 
+### 🔥 PyForge-LLM — MLOps Pipeline
+> End-to-end LLM fine-tuning pipeline with QLoRA on free GPU
+
+**Tech Stack:**
+![TinyLlama](https://img.shields.io/badge/-TinyLlama_1.1B-FF4B4B?style=flat&logo=pytorch&logoColor=white)
+![QLoRA](https://img.shields.io/badge/-QLoRA-FF6B6B?style=flat)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/-DVC-945DD6?style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+- Fine-tuned TinyLlama-1.1B on 18k Python code instructions using QLoRA (train loss: **0.6248**)
+- Full MLOps stack: DVC data versioning + MLflow experiment tracking
+- FastAPI inference server with streaming + Docker containerization
+- Trained on free Google Colab T4 GPU — zero cost
+
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804/PyForge-LLM)
+
+</td>
+    <td width="50%" valign="top">
+
 ### 🧮 AI Math Assignment Evaluator
 > SaaS platform for auto-grading student math assignments using AI
 
@@ -113,6 +143,8 @@ class DhruvPatel:
 [![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
 </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
 ### 🤖 AI Data Chatbot (NL → SQL)
@@ -131,8 +163,6 @@ class DhruvPatel:
 [![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
 </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 
 ### 🎾 Racquetheroes Real-Time Sports Backend
@@ -152,6 +182,8 @@ class DhruvPatel:
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://racquetheroes.com)
 
 </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
 ### 📈 TradeAlert Platform
@@ -169,8 +201,6 @@ class DhruvPatel:
 [![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvpatel1804/TradeAlertPro)
 
 </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 
 ### 🏢 Multi-Tenant SaaS Platform
@@ -189,6 +219,8 @@ class DhruvPatel:
 [![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
 </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
 ### 📧 Email Warm-up Platform
@@ -207,6 +239,11 @@ class DhruvPatel:
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://warmup.sendwithhma.com)
 
 </td>
+    <td width="50%" valign="top">
+
+<!-- Placeholder for future project -->
+
+</td>
   </tr>
 </table>
 
@@ -216,7 +253,8 @@ class DhruvPatel:
 
 ```
 Backend Engineering     ████████████████████  95%
-Generative AI / LLM     ████████████████░░░░  80%
+Generative AI / LLM     █████████████████░░░  85%
+MLOps & LLM Fine-tuning ███████████████░░░░░  75%
 Cloud & DevOps          ████████████████░░░░  80%
 Database Design         ███████████████░░░░░  75%
 Frontend (React)        ████████████░░░░░░░░  60%
@@ -227,6 +265,7 @@ Frontend (React)        ████████████░░░░░░�
 | 🐍 **Programming** | Python, SQL, Bash |
 | ⚙️ **Backend** | FastAPI, Django, REST APIs, WebSockets |
 | 🤖 **Generative AI** | LangChain, LangGraph, RAG, OpenAI, Embeddings, Vector DBs |
+| 🔥 **MLOps & Fine-tuning** | QLoRA, PEFT/LoRA, MLflow, DVC, HuggingFace, PyTorch, TRL |
 | 🗄️ **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
 | ☁️ **Cloud** | AWS (EKS, EC2, S3, RDS), Azure |
 | 🔧 **DevOps** | Docker, Kubernetes, Terraform, Helm, ArgoCD, GitHub Actions |
@@ -260,7 +299,7 @@ Frontend (React)        ████████████░░░░░░�
 
 | 🔭 Exploring | 💡 Deep-Diving | 🎯 Goals 2025 |
 |---|---|---|
-| LLM Fine-tuning | Agentic AI Workflows | Open-source AI contribution |
+| LLM Fine-tuning (QLoRA) | Agentic AI Workflows | Open-source AI contribution |
 | LlamaIndex | Multi-modal RAG | AWS Solutions Architect cert |
 | Rust for performance | eBPF & observability | Write technical blog posts |
 
@@ -286,6 +325,3 @@ Frontend (React)        ████████████░░░░░░�
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-<!-- Snake animation - enable via GitHub Actions in your profile repo -->
-<!-- <img src="https://github.com/Dhruvpatel1804/Dhruvpatel1804/blob/output/github-contribution-grid-snake.svg" /> -->
