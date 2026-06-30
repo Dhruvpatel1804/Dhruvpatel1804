@@ -2,7 +2,7 @@
 
 <!-- Animated Banner (reliable waving header) -->
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Dhruv%20Patel&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Senior%20Backend%20%26%20DevOps%20Engineer%20%7C%20AI%2FML%20Enthusiast&amp;descAlignY=58&amp;descSize=18" width="100%" alt="Dhruv Patel - Senior Backend & DevOps Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Dhruv%20Patel&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Senior%20AI%20%26%20Software%20Engineer%20%7C%20AI%2FML%20Enthusiast&amp;descAlignY=58&amp;descSize=18" width="100%" alt="Dhruv Patel - Senior AI Software Engineer"/>
 </picture>
 <br/>
 
@@ -28,7 +28,7 @@
 class DhruvPatel:
     def __init__(self):
         self.name        = "Dhruv Patel"
-        self.role        = "Senior Backend & DevOps Engineer"
+        self.role        = "Senior AI Software Engineer"
         self.location    = "Ahmedabad, India 🇮🇳"
         self.education   = "M.Tech – NIT Jalandhar (2022)"
         self.experience  = "5+ years"
@@ -239,9 +239,22 @@ class DhruvPatel:
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://warmup.sendwithhma.com)
 
 </td>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
-<!-- Placeholder for future project -->
+### 🔍 SEO Insight AI
+> AI-powered SEO auditing with page analysis, performance scoring, and actionable recommendations
+
+**Tech Stack:**
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Google%20PageSpeed%20Insights](https://img.shields.io/badge/-PageSpeed%20Insights-4285F4?style=flat&logo=googlechrome&logoColor=white)
+
+- AI-powered SEO page auditing and recommendations
+- Core Web Vitals analysis with Google PageSpeed Insights
+- Web scraping, validation, and downloadable JSON reports
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://seo-insight-ai-1-0-0.onrender.com/)
 
 </td>
   </tr>
